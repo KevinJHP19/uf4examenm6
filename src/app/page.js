@@ -1,4 +1,4 @@
-import MovieExplorer from './movieexplorer/page'
+
 
 export default function Home() {
   return (

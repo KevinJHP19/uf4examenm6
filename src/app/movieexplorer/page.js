@@ -24,7 +24,7 @@ async function peliculaspopulares(){
 
     },[])
     return (
-        <div>
+        <div className="bg-gray-800">
             
         <Peliculas peliculas={datos}/>
         </div>
